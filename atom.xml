@@ -5,9 +5,9 @@
   <subtitle>a jaunt to there and now</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https//yunchtime.github.io/"/>
-  <updated>2017-10-19T00:15:02.000Z</updated>
-  <id>https//yunchtime.github.io/</id>
+  <link href="https://yunchtime.github.io/"/>
+  <updated>2017-10-24T01:33:19.000Z</updated>
+  <id>https://yunchtime.github.io/</id>
   
   <author>
     <name>Lex Berman</name>
@@ -17,9 +17,35 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Yunchtime Goes Hexo</title>
+    <link href="https://yunchtime.github.io/MACHINES/yunchtime-goes-hexo/"/>
+    <id>https://yunchtime.github.io/MACHINES/yunchtime-goes-hexo/</id>
+    <published>2017-10-23T20:15:32.000Z</published>
+    <updated>2017-10-24T01:33:19.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://www.yunchtime.net/misc/hexo_chess.jpg" alt=""></p><p>Well, as much as I love WordPress, I finally got tired with the updates and the response times when the shared hosting MySQL instances got bogged down.</p><p>Since I’ve been moving away from CMS in general and switching from Drupal and WP to Metalsmith templated websites, I thought I would look around for a WP migration option.   </p><p>Seems like HEXO does a great job of migration, via Jekyll posts, so I’ve jumped off the deep end and converted the whole history of Yunchtime blog from it’s 11 years of vagaries to hexo.  </p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;http://www.yunchtime.net/misc/hexo_chess.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Well, as much as I love WordPress, I finally got tired with the up
+      
+    
+    </summary>
+    
+      <category term="MACHINES" scheme="https://yunchtime.github.io/categories/MACHINES/"/>
+    
+    
+      <category term="static" scheme="https://yunchtime.github.io/tags/static/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Reyes Cárdenas and the Moons of Mars</title>
-    <link href="https//yunchtime.github.io/ARTS/reyes-cardenas-and-the-moons-of-mars/"/>
-    <id>https//yunchtime.github.io/ARTS/reyes-cardenas-and-the-moons-of-mars/</id>
+    <link href="https://yunchtime.github.io/ARTS/reyes-cardenas-and-the-moons-of-mars/"/>
+    <id>https://yunchtime.github.io/ARTS/reyes-cardenas-and-the-moons-of-mars/</id>
     <published>2017-09-17T20:33:27.000Z</published>
     <updated>2017-10-19T00:15:02.000Z</updated>
     
@@ -35,21 +61,21 @@
     
     </summary>
     
-      <category term="ARTS" scheme="https//yunchtime.github.io/categories/ARTS/"/>
+      <category term="ARTS" scheme="https://yunchtime.github.io/categories/ARTS/"/>
     
     
-      <category term="poetry" scheme="https//yunchtime.github.io/tags/poetry/"/>
+      <category term="poetry" scheme="https://yunchtime.github.io/tags/poetry/"/>
     
-      <category term="identity" scheme="https//yunchtime.github.io/tags/identity/"/>
+      <category term="identity" scheme="https://yunchtime.github.io/tags/identity/"/>
     
-      <category term="sabroso" scheme="https//yunchtime.github.io/tags/sabroso/"/>
+      <category term="sabroso" scheme="https://yunchtime.github.io/tags/sabroso/"/>
     
   </entry>
   
   <entry>
     <title>The mystique of Keleck</title>
-    <link href="https//yunchtime.github.io/ARTS/the-mystique-of-keleck/"/>
-    <id>https//yunchtime.github.io/ARTS/the-mystique-of-keleck/</id>
+    <link href="https://yunchtime.github.io/ARTS/the-mystique-of-keleck/"/>
+    <id>https://yunchtime.github.io/ARTS/the-mystique-of-keleck/</id>
     <published>2017-07-05T00:31:12.000Z</published>
     <updated>2017-10-19T00:15:02.000Z</updated>
     
@@ -65,31 +91,31 @@
     
     </summary>
     
-      <category term="ARTS" scheme="https//yunchtime.github.io/categories/ARTS/"/>
+      <category term="ARTS" scheme="https://yunchtime.github.io/categories/ARTS/"/>
     
     
-      <category term="science fiction" scheme="https//yunchtime.github.io/tags/science-fiction/"/>
+      <category term="science fiction" scheme="https://yunchtime.github.io/tags/science-fiction/"/>
     
-      <category term="criticism" scheme="https//yunchtime.github.io/tags/criticism/"/>
+      <category term="criticism" scheme="https://yunchtime.github.io/tags/criticism/"/>
     
-      <category term="artists" scheme="https//yunchtime.github.io/tags/artists/"/>
+      <category term="artists" scheme="https://yunchtime.github.io/tags/artists/"/>
     
-      <category term="surrealism" scheme="https//yunchtime.github.io/tags/surrealism/"/>
+      <category term="surrealism" scheme="https://yunchtime.github.io/tags/surrealism/"/>
     
-      <category term="biography" scheme="https//yunchtime.github.io/tags/biography/"/>
+      <category term="biography" scheme="https://yunchtime.github.io/tags/biography/"/>
     
-      <category term="France" scheme="https//yunchtime.github.io/tags/France/"/>
+      <category term="France" scheme="https://yunchtime.github.io/tags/France/"/>
     
-      <category term="macabre" scheme="https//yunchtime.github.io/tags/macabre/"/>
+      <category term="macabre" scheme="https://yunchtime.github.io/tags/macabre/"/>
     
-      <category term="painting" scheme="https//yunchtime.github.io/tags/painting/"/>
+      <category term="painting" scheme="https://yunchtime.github.io/tags/painting/"/>
     
   </entry>
   
   <entry>
     <title>The Elephant Man as Reality T.V.</title>
-    <link href="https//yunchtime.github.io/ARTS/the-elephant-man-as-reality-t-v/"/>
-    <id>https//yunchtime.github.io/ARTS/the-elephant-man-as-reality-t-v/</id>
+    <link href="https://yunchtime.github.io/ARTS/the-elephant-man-as-reality-t-v/"/>
+    <id>https://yunchtime.github.io/ARTS/the-elephant-man-as-reality-t-v/</id>
     <published>2017-03-11T23:58:17.000Z</published>
     <updated>2017-10-19T00:15:02.000Z</updated>
     
@@ -104,27 +130,27 @@
     
     </summary>
     
-      <category term="ARTS" scheme="https//yunchtime.github.io/categories/ARTS/"/>
+      <category term="ARTS" scheme="https://yunchtime.github.io/categories/ARTS/"/>
     
     
-      <category term="social mores" scheme="https//yunchtime.github.io/tags/social-mores/"/>
+      <category term="social mores" scheme="https://yunchtime.github.io/tags/social-mores/"/>
     
-      <category term="book review" scheme="https//yunchtime.github.io/tags/book-review/"/>
+      <category term="book review" scheme="https://yunchtime.github.io/tags/book-review/"/>
     
-      <category term="horror" scheme="https//yunchtime.github.io/tags/horror/"/>
+      <category term="horror" scheme="https://yunchtime.github.io/tags/horror/"/>
     
-      <category term="satire" scheme="https//yunchtime.github.io/tags/satire/"/>
+      <category term="satire" scheme="https://yunchtime.github.io/tags/satire/"/>
     
-      <category term="speculative fiction" scheme="https//yunchtime.github.io/tags/speculative-fiction/"/>
+      <category term="speculative fiction" scheme="https://yunchtime.github.io/tags/speculative-fiction/"/>
     
-      <category term="television" scheme="https//yunchtime.github.io/tags/television/"/>
+      <category term="television" scheme="https://yunchtime.github.io/tags/television/"/>
     
   </entry>
   
   <entry>
     <title>Rankled into Action, 2017</title>
-    <link href="https//yunchtime.github.io/COSMOS/rankled-into-action-2017/"/>
-    <id>https//yunchtime.github.io/COSMOS/rankled-into-action-2017/</id>
+    <link href="https://yunchtime.github.io/COSMOS/rankled-into-action-2017/"/>
+    <id>https://yunchtime.github.io/COSMOS/rankled-into-action-2017/</id>
     <published>2017-01-03T02:21:39.000Z</published>
     <updated>2017-10-19T00:15:02.000Z</updated>
     
@@ -140,17 +166,17 @@
     
     </summary>
     
-      <category term="COSMOS" scheme="https//yunchtime.github.io/categories/COSMOS/"/>
+      <category term="COSMOS" scheme="https://yunchtime.github.io/categories/COSMOS/"/>
     
     
-      <category term="ecology" scheme="https//yunchtime.github.io/tags/ecology/"/>
+      <category term="ecology" scheme="https://yunchtime.github.io/tags/ecology/"/>
     
   </entry>
   
   <entry>
     <title>Victory at Standing Rock</title>
-    <link href="https//yunchtime.github.io/HUMAN-BEINGS/victory-at-standing-rock/"/>
-    <id>https//yunchtime.github.io/HUMAN-BEINGS/victory-at-standing-rock/</id>
+    <link href="https://yunchtime.github.io/HUMAN-BEINGS/victory-at-standing-rock/"/>
+    <id>https://yunchtime.github.io/HUMAN-BEINGS/victory-at-standing-rock/</id>
     <published>2016-12-05T20:35:38.000Z</published>
     <updated>2017-10-18T23:57:46.000Z</updated>
     
@@ -165,21 +191,21 @@
     
     </summary>
     
-      <category term="HUMAN BEINGS" scheme="https//yunchtime.github.io/categories/HUMAN-BEINGS/"/>
+      <category term="HUMAN BEINGS" scheme="https://yunchtime.github.io/categories/HUMAN-BEINGS/"/>
     
     
-      <category term="ecology" scheme="https//yunchtime.github.io/tags/ecology/"/>
+      <category term="ecology" scheme="https://yunchtime.github.io/tags/ecology/"/>
     
-      <category term="justice" scheme="https//yunchtime.github.io/tags/justice/"/>
+      <category term="justice" scheme="https://yunchtime.github.io/tags/justice/"/>
     
-      <category term="protest" scheme="https//yunchtime.github.io/tags/protest/"/>
+      <category term="protest" scheme="https://yunchtime.github.io/tags/protest/"/>
     
   </entry>
   
   <entry>
     <title>Placing Names:  it is a thing!</title>
-    <link href="https//yunchtime.github.io/ARTS/placing-names-it-is-a-thing/"/>
-    <id>https//yunchtime.github.io/ARTS/placing-names-it-is-a-thing/</id>
+    <link href="https://yunchtime.github.io/ARTS/placing-names-it-is-a-thing/"/>
+    <id>https://yunchtime.github.io/ARTS/placing-names-it-is-a-thing/</id>
     <published>2016-09-07T03:36:10.000Z</published>
     <updated>2017-10-19T00:15:02.000Z</updated>
     
@@ -194,19 +220,19 @@
     
     </summary>
     
-      <category term="ARTS" scheme="https//yunchtime.github.io/categories/ARTS/"/>
+      <category term="ARTS" scheme="https://yunchtime.github.io/categories/ARTS/"/>
     
     
-      <category term="gazetteer" scheme="https//yunchtime.github.io/tags/gazetteer/"/>
+      <category term="gazetteer" scheme="https://yunchtime.github.io/tags/gazetteer/"/>
     
-      <category term="historical geography" scheme="https//yunchtime.github.io/tags/historical-geography/"/>
+      <category term="historical geography" scheme="https://yunchtime.github.io/tags/historical-geography/"/>
     
   </entry>
   
   <entry>
     <title>Green Chili Jones:  Solved</title>
-    <link href="https//yunchtime.github.io/ARTS/green-chili-jones-solved/"/>
-    <id>https//yunchtime.github.io/ARTS/green-chili-jones-solved/</id>
+    <link href="https://yunchtime.github.io/ARTS/green-chili-jones-solved/"/>
+    <id>https://yunchtime.github.io/ARTS/green-chili-jones-solved/</id>
     <published>2016-08-27T04:38:24.000Z</published>
     <updated>2017-10-19T00:15:02.000Z</updated>
     
@@ -221,19 +247,19 @@
     
     </summary>
     
-      <category term="ARTS" scheme="https//yunchtime.github.io/categories/ARTS/"/>
+      <category term="ARTS" scheme="https://yunchtime.github.io/categories/ARTS/"/>
     
     
-      <category term="Albuquerque" scheme="https//yunchtime.github.io/tags/Albuquerque/"/>
+      <category term="Albuquerque" scheme="https://yunchtime.github.io/tags/Albuquerque/"/>
     
-      <category term="green chili" scheme="https//yunchtime.github.io/tags/green-chili/"/>
+      <category term="green chili" scheme="https://yunchtime.github.io/tags/green-chili/"/>
     
   </entry>
   
   <entry>
     <title>Fallout from Quincy Adams:  Readercon 2016</title>
-    <link href="https//yunchtime.github.io/ARTS/fallout-from-quincy-adams-readercon-2016/"/>
-    <id>https//yunchtime.github.io/ARTS/fallout-from-quincy-adams-readercon-2016/</id>
+    <link href="https://yunchtime.github.io/ARTS/fallout-from-quincy-adams-readercon-2016/"/>
+    <id>https://yunchtime.github.io/ARTS/fallout-from-quincy-adams-readercon-2016/</id>
     <published>2016-08-07T21:28:54.000Z</published>
     <updated>2017-10-19T00:15:02.000Z</updated>
     
@@ -247,21 +273,21 @@
     
     </summary>
     
-      <category term="ARTS" scheme="https//yunchtime.github.io/categories/ARTS/"/>
+      <category term="ARTS" scheme="https://yunchtime.github.io/categories/ARTS/"/>
     
     
-      <category term="con report" scheme="https//yunchtime.github.io/tags/con-report/"/>
+      <category term="con report" scheme="https://yunchtime.github.io/tags/con-report/"/>
     
-      <category term="readercon" scheme="https//yunchtime.github.io/tags/readercon/"/>
+      <category term="readercon" scheme="https://yunchtime.github.io/tags/readercon/"/>
     
-      <category term="controversy" scheme="https//yunchtime.github.io/tags/controversy/"/>
+      <category term="controversy" scheme="https://yunchtime.github.io/tags/controversy/"/>
     
   </entry>
   
   <entry>
     <title>Redemption Song</title>
-    <link href="https//yunchtime.github.io/HUMAN-BEINGS/redemption-song/"/>
-    <id>https//yunchtime.github.io/HUMAN-BEINGS/redemption-song/</id>
+    <link href="https://yunchtime.github.io/HUMAN-BEINGS/redemption-song/"/>
+    <id>https://yunchtime.github.io/HUMAN-BEINGS/redemption-song/</id>
     <published>2016-07-21T07:40:57.000Z</published>
     <updated>2017-10-19T00:15:02.000Z</updated>
     
@@ -276,23 +302,23 @@
     
     </summary>
     
-      <category term="HUMAN BEINGS" scheme="https//yunchtime.github.io/categories/HUMAN-BEINGS/"/>
+      <category term="HUMAN BEINGS" scheme="https://yunchtime.github.io/categories/HUMAN-BEINGS/"/>
     
     
-      <category term="crime" scheme="https//yunchtime.github.io/tags/crime/"/>
+      <category term="crime" scheme="https://yunchtime.github.io/tags/crime/"/>
     
-      <category term="life imitating art" scheme="https//yunchtime.github.io/tags/life-imitating-art/"/>
+      <category term="life imitating art" scheme="https://yunchtime.github.io/tags/life-imitating-art/"/>
     
-      <category term="redemption" scheme="https//yunchtime.github.io/tags/redemption/"/>
+      <category term="redemption" scheme="https://yunchtime.github.io/tags/redemption/"/>
     
-      <category term="Taiwan" scheme="https//yunchtime.github.io/tags/Taiwan/"/>
+      <category term="Taiwan" scheme="https://yunchtime.github.io/tags/Taiwan/"/>
     
   </entry>
   
   <entry>
     <title>It&#39;s Towel Day:  Let your freak flag fly!</title>
-    <link href="https//yunchtime.github.io/HUMAN-BEINGS/its-towel-day-let-your-freak-flag-fly/"/>
-    <id>https//yunchtime.github.io/HUMAN-BEINGS/its-towel-day-let-your-freak-flag-fly/</id>
+    <link href="https://yunchtime.github.io/HUMAN-BEINGS/its-towel-day-let-your-freak-flag-fly/"/>
+    <id>https://yunchtime.github.io/HUMAN-BEINGS/its-towel-day-let-your-freak-flag-fly/</id>
     <published>2016-05-25T20:50:41.000Z</published>
     <updated>2017-10-19T01:25:06.000Z</updated>
     
@@ -308,21 +334,21 @@
     
     </summary>
     
-      <category term="HUMAN BEINGS" scheme="https//yunchtime.github.io/categories/HUMAN-BEINGS/"/>
+      <category term="HUMAN BEINGS" scheme="https://yunchtime.github.io/categories/HUMAN-BEINGS/"/>
     
     
-      <category term="science fiction" scheme="https//yunchtime.github.io/tags/science-fiction/"/>
+      <category term="science fiction" scheme="https://yunchtime.github.io/tags/science-fiction/"/>
     
-      <category term="hitchhiking" scheme="https//yunchtime.github.io/tags/hitchhiking/"/>
+      <category term="hitchhiking" scheme="https://yunchtime.github.io/tags/hitchhiking/"/>
     
-      <category term="memorials" scheme="https//yunchtime.github.io/tags/memorials/"/>
+      <category term="memorials" scheme="https://yunchtime.github.io/tags/memorials/"/>
     
   </entry>
   
   <entry>
     <title>Agit-prop 2016:  Democratic Socialism Wants You</title>
-    <link href="https//yunchtime.github.io/IDEAS/agit-prop-2016-democratic-socialism-wants-you/"/>
-    <id>https//yunchtime.github.io/IDEAS/agit-prop-2016-democratic-socialism-wants-you/</id>
+    <link href="https://yunchtime.github.io/IDEAS/agit-prop-2016-democratic-socialism-wants-you/"/>
+    <id>https://yunchtime.github.io/IDEAS/agit-prop-2016-democratic-socialism-wants-you/</id>
     <published>2016-05-21T20:15:08.000Z</published>
     <updated>2017-10-19T00:15:02.000Z</updated>
     
@@ -338,23 +364,23 @@
     
     </summary>
     
-      <category term="IDEAS" scheme="https//yunchtime.github.io/categories/IDEAS/"/>
+      <category term="IDEAS" scheme="https://yunchtime.github.io/categories/IDEAS/"/>
     
     
-      <category term="memes" scheme="https//yunchtime.github.io/tags/memes/"/>
+      <category term="memes" scheme="https://yunchtime.github.io/tags/memes/"/>
     
-      <category term="politics" scheme="https//yunchtime.github.io/tags/politics/"/>
+      <category term="politics" scheme="https://yunchtime.github.io/tags/politics/"/>
     
-      <category term="agit-prop" scheme="https//yunchtime.github.io/tags/agit-prop/"/>
+      <category term="agit-prop" scheme="https://yunchtime.github.io/tags/agit-prop/"/>
     
-      <category term="socialism" scheme="https//yunchtime.github.io/tags/socialism/"/>
+      <category term="socialism" scheme="https://yunchtime.github.io/tags/socialism/"/>
     
   </entry>
   
   <entry>
     <title>The Sleek and Memorable Art of A. J. Donnell</title>
-    <link href="https//yunchtime.github.io/ARTS/the-sleek-and-memorable-art-of-a-j-donnell/"/>
-    <id>https//yunchtime.github.io/ARTS/the-sleek-and-memorable-art-of-a-j-donnell/</id>
+    <link href="https://yunchtime.github.io/ARTS/the-sleek-and-memorable-art-of-a-j-donnell/"/>
+    <id>https://yunchtime.github.io/ARTS/the-sleek-and-memorable-art-of-a-j-donnell/</id>
     <published>2016-05-14T21:52:05.000Z</published>
     <updated>2017-10-19T00:15:02.000Z</updated>
     
@@ -369,21 +395,21 @@
     
     </summary>
     
-      <category term="ARTS" scheme="https//yunchtime.github.io/categories/ARTS/"/>
+      <category term="ARTS" scheme="https://yunchtime.github.io/categories/ARTS/"/>
     
     
-      <category term="illustration" scheme="https//yunchtime.github.io/tags/illustration/"/>
+      <category term="illustration" scheme="https://yunchtime.github.io/tags/illustration/"/>
     
-      <category term="biography" scheme="https//yunchtime.github.io/tags/biography/"/>
+      <category term="biography" scheme="https://yunchtime.github.io/tags/biography/"/>
     
-      <category term="design" scheme="https//yunchtime.github.io/tags/design/"/>
+      <category term="design" scheme="https://yunchtime.github.io/tags/design/"/>
     
   </entry>
   
   <entry>
     <title>Island Under the Earth</title>
-    <link href="https//yunchtime.github.io/ARTS/island-under-the-earth/"/>
-    <id>https//yunchtime.github.io/ARTS/island-under-the-earth/</id>
+    <link href="https://yunchtime.github.io/ARTS/island-under-the-earth/"/>
+    <id>https://yunchtime.github.io/ARTS/island-under-the-earth/</id>
     <published>2016-05-08T19:09:40.000Z</published>
     <updated>2017-10-19T00:15:02.000Z</updated>
     
@@ -399,19 +425,19 @@
     
     </summary>
     
-      <category term="ARTS" scheme="https//yunchtime.github.io/categories/ARTS/"/>
+      <category term="ARTS" scheme="https://yunchtime.github.io/categories/ARTS/"/>
     
     
-      <category term="quotes" scheme="https//yunchtime.github.io/tags/quotes/"/>
+      <category term="quotes" scheme="https://yunchtime.github.io/tags/quotes/"/>
     
-      <category term="cannibalism" scheme="https//yunchtime.github.io/tags/cannibalism/"/>
+      <category term="cannibalism" scheme="https://yunchtime.github.io/tags/cannibalism/"/>
     
   </entry>
   
   <entry>
     <title>We need a monkey year...</title>
-    <link href="https//yunchtime.github.io/ARTS/we-need-a-monkey-year/"/>
-    <id>https//yunchtime.github.io/ARTS/we-need-a-monkey-year/</id>
+    <link href="https://yunchtime.github.io/ARTS/we-need-a-monkey-year/"/>
+    <id>https://yunchtime.github.io/ARTS/we-need-a-monkey-year/</id>
     <published>2016-01-01T21:16:24.000Z</published>
     <updated>2017-10-19T00:15:02.000Z</updated>
     
@@ -425,19 +451,19 @@
     
     </summary>
     
-      <category term="ARTS" scheme="https//yunchtime.github.io/categories/ARTS/"/>
+      <category term="ARTS" scheme="https://yunchtime.github.io/categories/ARTS/"/>
     
     
-      <category term="mushrooms" scheme="https//yunchtime.github.io/tags/mushrooms/"/>
+      <category term="mushrooms" scheme="https://yunchtime.github.io/tags/mushrooms/"/>
     
-      <category term="New Year" scheme="https//yunchtime.github.io/tags/New-Year/"/>
+      <category term="New Year" scheme="https://yunchtime.github.io/tags/New-Year/"/>
     
   </entry>
   
   <entry>
     <title>Another Blood Moon, Another Howling</title>
-    <link href="https//yunchtime.github.io/ARTS/another-blood-moon-another-howling/"/>
-    <id>https//yunchtime.github.io/ARTS/another-blood-moon-another-howling/</id>
+    <link href="https://yunchtime.github.io/ARTS/another-blood-moon-another-howling/"/>
+    <id>https://yunchtime.github.io/ARTS/another-blood-moon-another-howling/</id>
     <published>2015-10-24T20:50:57.000Z</published>
     <updated>2017-10-19T00:15:02.000Z</updated>
     
@@ -453,25 +479,25 @@
     
     </summary>
     
-      <category term="ARTS" scheme="https//yunchtime.github.io/categories/ARTS/"/>
+      <category term="ARTS" scheme="https://yunchtime.github.io/categories/ARTS/"/>
     
     
-      <category term="criticism" scheme="https//yunchtime.github.io/tags/criticism/"/>
+      <category term="criticism" scheme="https://yunchtime.github.io/tags/criticism/"/>
     
-      <category term="psychology" scheme="https//yunchtime.github.io/tags/psychology/"/>
+      <category term="psychology" scheme="https://yunchtime.github.io/tags/psychology/"/>
     
-      <category term="moon" scheme="https//yunchtime.github.io/tags/moon/"/>
+      <category term="moon" scheme="https://yunchtime.github.io/tags/moon/"/>
     
-      <category term="occult" scheme="https//yunchtime.github.io/tags/occult/"/>
+      <category term="occult" scheme="https://yunchtime.github.io/tags/occult/"/>
     
-      <category term="werewolves" scheme="https//yunchtime.github.io/tags/werewolves/"/>
+      <category term="werewolves" scheme="https://yunchtime.github.io/tags/werewolves/"/>
     
   </entry>
   
   <entry>
     <title>MICE swarm in University Hall:  Mass Independent Comix Expo 2015</title>
-    <link href="https//yunchtime.github.io/ARTS/mice-swarm-in-university-hall/"/>
-    <id>https//yunchtime.github.io/ARTS/mice-swarm-in-university-hall/</id>
+    <link href="https://yunchtime.github.io/ARTS/mice-swarm-in-university-hall/"/>
+    <id>https://yunchtime.github.io/ARTS/mice-swarm-in-university-hall/</id>
     <published>2015-10-18T22:20:57.000Z</published>
     <updated>2017-10-19T00:15:02.000Z</updated>
     
@@ -487,25 +513,25 @@
     
     </summary>
     
-      <category term="ARTS" scheme="https//yunchtime.github.io/categories/ARTS/"/>
+      <category term="ARTS" scheme="https://yunchtime.github.io/categories/ARTS/"/>
     
     
-      <category term="comics" scheme="https//yunchtime.github.io/tags/comics/"/>
+      <category term="comics" scheme="https://yunchtime.github.io/tags/comics/"/>
     
-      <category term="anarchism" scheme="https//yunchtime.github.io/tags/anarchism/"/>
+      <category term="anarchism" scheme="https://yunchtime.github.io/tags/anarchism/"/>
     
-      <category term="con report" scheme="https//yunchtime.github.io/tags/con-report/"/>
+      <category term="con report" scheme="https://yunchtime.github.io/tags/con-report/"/>
     
-      <category term="androids" scheme="https//yunchtime.github.io/tags/androids/"/>
+      <category term="androids" scheme="https://yunchtime.github.io/tags/androids/"/>
     
-      <category term="equality" scheme="https//yunchtime.github.io/tags/equality/"/>
+      <category term="equality" scheme="https://yunchtime.github.io/tags/equality/"/>
     
   </entry>
   
   <entry>
     <title>Russian Science Fiction Oddities from the John H. Costello Collection</title>
-    <link href="https//yunchtime.github.io/ARTS/russian-science-fiction-oddities-from-the-john-h-costello-collection/"/>
-    <id>https//yunchtime.github.io/ARTS/russian-science-fiction-oddities-from-the-john-h-costello-collection/</id>
+    <link href="https://yunchtime.github.io/ARTS/russian-science-fiction-oddities-from-the-john-h-costello-collection/"/>
+    <id>https://yunchtime.github.io/ARTS/russian-science-fiction-oddities-from-the-john-h-costello-collection/</id>
     <published>2015-07-19T06:46:41.000Z</published>
     <updated>2017-10-19T00:15:02.000Z</updated>
     
@@ -520,23 +546,23 @@
     
     </summary>
     
-      <category term="ARTS" scheme="https//yunchtime.github.io/categories/ARTS/"/>
+      <category term="ARTS" scheme="https://yunchtime.github.io/categories/ARTS/"/>
     
     
-      <category term="fandom" scheme="https//yunchtime.github.io/tags/fandom/"/>
+      <category term="fandom" scheme="https://yunchtime.github.io/tags/fandom/"/>
     
-      <category term="zines" scheme="https//yunchtime.github.io/tags/zines/"/>
+      <category term="zines" scheme="https://yunchtime.github.io/tags/zines/"/>
     
-      <category term="cartoonists" scheme="https//yunchtime.github.io/tags/cartoonists/"/>
+      <category term="cartoonists" scheme="https://yunchtime.github.io/tags/cartoonists/"/>
     
-      <category term="Russia" scheme="https//yunchtime.github.io/tags/Russia/"/>
+      <category term="Russia" scheme="https://yunchtime.github.io/tags/Russia/"/>
     
   </entry>
   
   <entry>
     <title>Readercon 2015:  Veering Towards Pluto</title>
-    <link href="https//yunchtime.github.io/ARTS/readercon-2015-veering-towards-pluto/"/>
-    <id>https//yunchtime.github.io/ARTS/readercon-2015-veering-towards-pluto/</id>
+    <link href="https://yunchtime.github.io/ARTS/readercon-2015-veering-towards-pluto/"/>
+    <id>https://yunchtime.github.io/ARTS/readercon-2015-veering-towards-pluto/</id>
     <published>2015-07-14T01:27:30.000Z</published>
     <updated>2017-10-19T00:15:02.000Z</updated>
     
@@ -554,19 +580,19 @@
     
     </summary>
     
-      <category term="ARTS" scheme="https//yunchtime.github.io/categories/ARTS/"/>
+      <category term="ARTS" scheme="https://yunchtime.github.io/categories/ARTS/"/>
     
     
-      <category term="con report" scheme="https//yunchtime.github.io/tags/con-report/"/>
+      <category term="con report" scheme="https://yunchtime.github.io/tags/con-report/"/>
     
-      <category term="readercon" scheme="https//yunchtime.github.io/tags/readercon/"/>
+      <category term="readercon" scheme="https://yunchtime.github.io/tags/readercon/"/>
     
   </entry>
   
   <entry>
     <title>The Surrealist Path of Harry O. Morris</title>
-    <link href="https//yunchtime.github.io/HUMAN-BEINGS/the-surrealist-path-of-harry-o-morris/"/>
-    <id>https//yunchtime.github.io/HUMAN-BEINGS/the-surrealist-path-of-harry-o-morris/</id>
+    <link href="https://yunchtime.github.io/HUMAN-BEINGS/the-surrealist-path-of-harry-o-morris/"/>
+    <id>https://yunchtime.github.io/HUMAN-BEINGS/the-surrealist-path-of-harry-o-morris/</id>
     <published>2015-06-29T02:35:29.000Z</published>
     <updated>2017-10-19T00:15:02.000Z</updated>
     
@@ -586,55 +612,18 @@
     
     </summary>
     
-      <category term="HUMAN BEINGS" scheme="https//yunchtime.github.io/categories/HUMAN-BEINGS/"/>
+      <category term="HUMAN BEINGS" scheme="https://yunchtime.github.io/categories/HUMAN-BEINGS/"/>
     
     
-      <category term="illustration" scheme="https//yunchtime.github.io/tags/illustration/"/>
+      <category term="illustration" scheme="https://yunchtime.github.io/tags/illustration/"/>
     
-      <category term="criticism" scheme="https//yunchtime.github.io/tags/criticism/"/>
+      <category term="criticism" scheme="https://yunchtime.github.io/tags/criticism/"/>
     
-      <category term="surrealism" scheme="https//yunchtime.github.io/tags/surrealism/"/>
+      <category term="surrealism" scheme="https://yunchtime.github.io/tags/surrealism/"/>
     
-      <category term="biography" scheme="https//yunchtime.github.io/tags/biography/"/>
+      <category term="biography" scheme="https://yunchtime.github.io/tags/biography/"/>
     
-      <category term="horror" scheme="https//yunchtime.github.io/tags/horror/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>The Magic Flight of Thought</title>
-    <link href="https//yunchtime.github.io/IDEAS/the-magic-flight-of-thought/"/>
-    <id>https//yunchtime.github.io/IDEAS/the-magic-flight-of-thought/</id>
-    <published>2015-02-02T09:43:47.000Z</published>
-    <updated>2017-10-19T00:15:02.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="http://yunchtime.tumblr.com/post/109826887527/the-flight-of-thought-is-no-longer-a-magic-power" target="_blank" rel="external"><img class="alignnone" src="http://www.yunchtime.net/misc/Thor_Bell_sm.png" alt="" width="551" height="409"></a></p><p>&nbsp;</p><p>Today I was talking to my sister (Happy Birthday, Chi!) and we were chatting about the crazy speed of new technology.  How strange it is to collapse our life experience into a series of new devices and how they affected us, and then try to imagine what it is like to be born digital, with all this shiny stuff that has no historical context.  As Peter Goldman said: “Between the twitterverse and the 24-hour cable news cycle our history keeps disappearing.”</p><p><strong>Now, everything is instantaneous, all knowledge is free, one-to-one communication is a such a waste of time…</strong>   “<em>duh!</em>  old timer, how can you be so passé.”</p><p>This got me thinking about the impact of earlier communication technologies and what they were like in the popular culture <strong>before</strong> they were taken for granted.</p><p>What was it like 100 years ago, when the telephone was first established as a fixture of modern life?   In 1880, there had only been 108,000 telephones in use, by 1890 there were 467,000 telephones installed.</p><p>Think of the rapid change as this newfangled device penetrated American society.</p><p><strong>1900</strong> 600,000 (for 76,000,000 people) reaching <strong>0.79%</strong> of the population</p><p><strong>1905</strong> 2,200,000 (for 83,000,000 people) reaching <strong>2.6%</strong> of the population</p><p><strong>1910</strong> 5,800,000 (for 92,000,000 people) reaching <strong>6.3%</strong> of the population</p><p>During the first 25 years of its existence the telephone was physically accessible to less than 1% of the population, but that number nearly tripled between 1900 and 1905, then doubled again, between 1905 and 1910.   This exponential growth, and the exposure of greater and greater numbers of people to this technology &#8212; <em>which could project their voice instantly to almost anywhere</em> &#8212; must indeed have seemed like magic, like something from mythology come to life!</p><p>So it was not surprising to find an advertisement in the 1914 <em>Farm Journal</em> in which the American Telephone and Telegraph Company actually portrayed their service in mythological terms.  AT&amp;T was established only nine years earlier, in 1885, and by 1914 they had been riding a totally unparalleled explosion of telephony…and yet, from their point of view, they had more than 90% of the population left to capture as customers!   How to capture their imagination and then their money?   That must have been the operating question for the AT&amp;T publicity machine of the time.    And here is what they came up with:</p><a id="more"></a><blockquote><p><strong><em>The Magic Flight of Thought</em></strong></p><p><em>Ages ago, Thor, the champion of the Scandinavian gods, invaded Jotunheim, the land of the giants and was challenged to feats of skill by Loki, the king.</em></p><p><em>Thor matched Thialfi, the swiftest of mortals, against Hugi in a footrace.  Thrice they swept over the course, but each time Thialfi was hopelessly defeated by Loki’s runner.</em></p><p><em>Loki confessed to Thor afterwards that he had deceived the god by enchantments, saying, “Hugi was my thought, and what speed can ever equal his?”</em></p><p><em>But the flight of thought is no longer a magic power of mythical beings, for the Bell Telephone has made it a common daily experience.</em></p><p><em><strong>Over the telephone, the spoken thought is transmitted instantly, directly where we send it,</strong> outdistancing every other means for carrying of messages.</em></p><p><em>In the Bell System, the telephone lines reach throughout the country, and <strong>the thoughts of the people are carried with lightning speed in all directions</strong>, one mile, a hundred, or two thousand miles away.</em></p><p><em>And because the Bell System so adequately served the practical needs of the people, the magic of thought’s swift flight occurs 25,000,000 times every twenty-four hours.</em></p></blockquote><p>&nbsp;</p><p>What a fascinating text!    It appeared in <a href="https://books.google.com/books?id=stxGAAAAYAAJ&lpg=PA142&ots=mkmgICZJd4&dq=Universal%20Aether%20Telegraph%20Co.%20farm%20journal&pg=PA142#v=onepage&q&f=true" target="_blank"><em>Farm Journal</em>, Feb 1914, p. 142</a>.  Can we be pardoned to take a little semiotic glance at this stuff?    Summoning the gods themselves, Ma Bell pits the champion Thor against the cunning Loki.   Thor, the simple honest hard-working champion, doesn’t think of riding the skies on his <em>uru</em>-hammer, but puts an ordinary mortal on the ground to run the course as his surrogate.  In other words, <strong>Thor cannot think beyond the manifestation of his physical body</strong>, and must toil against gravity, against distance, against steep slopes.   Thor is the eternal mail-carrier, battering his way forward against the snow, the rain, the heat, and gloom of night.  Just as it ever was, since Ancient Persian times, or earlier, the imperative of moving information through physical dimensions of space has decided the fate of humans and their societies.</p><p>By contrast, the wily and diabolical Loki projects his thoughts over the same course, and thoughts &#8212; <em>like electrons!</em> &#8212; travel instantly, leaving no tracks and without muddying the wings of anybody’s sandals.  Here, we can see that Loki transcends the physical body, the physical landscape, with all their sordid geometries and limitations.  <strong>Loki casts off the body in favor of pure instantaneous thought, which can cover any distance without friction &#8212; Loki operates on the astral plane! </strong> And obviously Ma Bell associates with Loki, keep that in mind.</p><p>Now how is the potential customer going to interpret this allegory?    <em>The flight of thought is no longer a magic power of mythical beings, the Bell Telephone has made it a common daily experience.</em>   Let us say they were channeling Arthur C. Clarke from the future, and they could dig the idea that any technology sufficiently advanced cannot be distinguished from magic.  Sure.  It’s just technology, get used to it!   But wait…  <em>over the telephone, spoken thought is transmitted instantly, wherever we direct it</em>.   The telephone transmits “spoken thought.”   What is that?  Isn’t it just speech?   But this is the diabolical cleverness of Ma Bell.   It is the mental activity of thought that is transmitted &#8212; in it’s spoken form, albeit &#8212; but essentially we are engaging not in <em>telephony</em> but in <em>telepathy</em>!</p><p>Let us think back to 1914.  When the telephone was first introduced, it was the hey-day of table rappers, claire-voyants, and theosophists.   But Ma Bell wasn’t hanging around with <a href="http://en.wikipedia.org/wiki/Helena_Blavatsky" target="_blank">Madame Blavatsky</a> they were delivering telepathy, the instant transmission of spoken thought!   That!  Was real!</p><p>The homespun-wearing reader of the <em>Farm Journal,</em> leaning next to a pot-bellied stove in the barn, must have spit a long arc of chaw at this news!   After having mortgaged the farm to buy a tractor, so they didn’t get put out of business by the Jones’s over yonder, it must have been rather stimulating to think of being the first feller in the county to have instant communication with anyplace on the continent!   Heady stuff indeed.   And it was not a fantasy story, like something you’d read in <a href="http://www.pulpmags.org/popular_page.html" target="_blank"><em>The Popular Magazine</em></a>.   This was now a common daily experience!</p><p>Note that Ma Bell was advertising in <em>Farm Journal</em>, not just the <em>Wall Street Journal</em>.    This was a populist campaign, because they had to hook the 90% of ordinary folks on the telephone.   They had to make them realize that without the advantage of their spoken thoughts zapping instantly to any destination, they were a thing of the past.    But the ad is so ingenious and non-threatening!    It is not the elite with a monopoly on this power, it is <strong>the thoughts of the people carried with lightning speed</strong>.   We are on the side of the masses, then, says the phone company,  because <strong>the Bell System so adequately served the practical needs of the people, the magic of thought’s swift flight occurs 25,000,000 times every twenty-four hours. </strong> </p><p>This is such interesting stuff!  <strong>It is all about empowering the ordinary people, who become part of this vast network of thrumming brain-waves, snapping switchboards, and furious activity.</strong>    <em>Anyone</em> can call <em>anywhere</em>!   Their spoken thoughts projected instantly, making physical delivery of information obsolete.</p><p>On the other hand, I wonder how many phones in those rural general stores were ringing off the hook?   Compared say, to the offices of J. P. Morgan Bank, or the President of the United States.   <strong>Might there actually be some differential in the effectiveness and egalitarianism of this technology?</strong>   After all, it is <em>Loki</em> inviting us to join in, not Thor!   The silver-tongued Loki has, without a doubt, calculated everything in advance!  Loki knows  that dispersing the general cost of the phone system to the wider population it is going to benefit the rich and the powerful &#8212; those who are being <em>sought</em> after and those who <em>benefit</em> from instant transmission of information.</p><p>This problem remains with us today.   The modern <em>Everyman</em> can trade stocks online with Ameri*trade, or some other abomination from hell.   But <em>qui bono, amici</em>?   Think of those instant massive trades that transpire in milliseconds, that are run by the insiders, and that steer the market up and down like a puppet on a string.  And then keep in mind that none of those damned big brokerage houses are going to  pay a penny in fees or taxes on their stolen profits.   Meanwhile, you could take all the day-trading suckers put together &#8212; paying per-transaction brokerage fees &#8212; and they are flushing more money into the system to keep it all going.</p><p>Indeed, when I read this parable of Thor and Loki from 1914, I was not overly critical of the farmers back in the day.   I suspect they knew which way is up, and were not fooled into thinking that the telephone was a life or death necessity.   What strikes me is how similar the deception is, even to the present day.</p><p>Years ago, at a telecoms research conference (which I participated in while working at M.I.T.), some British boffin in the BT labs gave a hyper-ventilated stump speech about augmented reality glasses.   This was in 1999, so more than ten years before we saw actual products that could deliver augmented reality (<em>ala</em> Google glass launched in 2013).   Basically, what he said was that <strong>anyone who didn’t have the augmented reality <em>edge</em>, was dead in the water.</strong>   Who could survive in the shark eat shark world, without knowing instantly the name of the person beside you [from biometric recognition] and know what size shoes they wear, what high school they went to, and if they had knee surgery?   Above all, which knee!   In case you have to kick it, I suppose.   This sort of uber-frenzied and paranoid reality was rather comical to me.   And I enjoyed it tremendously when I happened across <a href="http://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html" target="_blank"><em>Accelerando</em></a> in 2005.   But is it really necessary?</p><p>Now that telephone usage is somewhere OVER 100%, the modern Loki and the modern Ma Bell have been supplanted by Internet services, and more insidiously, social media services.   Mark Zuckerberg now considers himself to be connecting the people, to serve them!   To help them!   Nevermind that he sells the identities, the interests, the habits and secrets of his clients to anyone with money.   He is a populist, on a mission to connect all the human beings on the planet in his network of instant spoken thought.</p><p>The “people” who have now become <em>uber</em>-connected freaks &#8212; yes, those 1.3 billion humans who are registered users of Facebook &#8212; aren’t they somewhat addled and hyperactive?   They show all the signs of acute addiction.   So what if all that random babbling is instantly commented on from every part of the globe.   Is it meaningful?  Has the purpose of human life been reduced to the bathos of continuous trivia and virtual contact?</p><p>Somehow the farmer contemplating the future in 1914 doesn’t seem all that bad to me from my laptop screen in 2015.  At least he had some ground to stand on, some pigs to feed, a back field to plow.   And today, what have we got?   A virtual server on shared hosting that we have to update, a linux kernel to patch, and pingback vulnerability to rid of email spam?   This is progress…  <em>feh</em>.</p><p>References:</p><ol><li><p>US Census Bureau, Statistics of Manufactures 1890, Operating Telephone Companies.  <a href="http://www2.census.gov/prod2/decennial/documents/1890d5-13.pdf" target="_blank">link</a></p></li><li><p>Imagining the Internet. Elon University, School of Communications.  <a href="http://www.elon.edu/e-web/predictions/150/1870.xhtml" target="_blank">link</a></p></li><li><p>The U.S. Postal Service Creed <a href="http://en.wikipedia.org/wiki/United_States_Postal_Service_creed" target="_blank">link</a></p></li><li><p>Peter Goldman, <em>quoted in Malcolm X Was Right About America</em>. <a href="http://www.commondreams.org/views/2015/02/02/malcolm-x-was-right-about-america" target="_blank">link</a></p></li></ol><p><img class="alignnone" src="http://www.yunchtime.net/misc/loki_facebook.jpg" alt=""></p><p>&nbsp;</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;http://yunchtime.tumblr.com/post/109826887527/the-flight-of-thought-is-no-longer-a-magic-power&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img class=&quot;alignnone&quot; src=&quot;http://www.yunchtime.net/misc/Thor_Bell_sm.png&quot; alt=&quot;&quot; width=&quot;551&quot; height=&quot;409&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Today I was talking to my sister (Happy Birthday, Chi!) and we were chatting about the crazy speed of new technology.  How strange it is to collapse our life experience into a series of new devices and how they affected us, and then try to imagine what it is like to be born digital, with all this shiny stuff that has no historical context.  As Peter Goldman said: “Between the twitterverse and the 24-hour cable news cycle our history keeps disappearing.”&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Now, everything is instantaneous, all knowledge is free, one-to-one communication is a such a waste of time…&lt;/strong&gt;   “&lt;em&gt;duh!&lt;/em&gt;  old timer, how can you be so passé.”&lt;/p&gt;
-&lt;p&gt;This got me thinking about the impact of earlier communication technologies and what they were like in the popular culture &lt;strong&gt;before&lt;/strong&gt; they were taken for granted.&lt;/p&gt;
-&lt;p&gt;What was it like 100 years ago, when the telephone was first established as a fixture of modern life?   In 1880, there had only been 108,000 telephones in use, by 1890 there were 467,000 telephones installed.&lt;/p&gt;
-&lt;p&gt;Think of the rapid change as this newfangled device penetrated American society.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;1900&lt;/strong&gt; 600,000 (for 76,000,000 people) reaching &lt;strong&gt;0.79%&lt;/strong&gt; of the population&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;1905&lt;/strong&gt; 2,200,000 (for 83,000,000 people) reaching &lt;strong&gt;2.6%&lt;/strong&gt; of the population&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;1910&lt;/strong&gt; 5,800,000 (for 92,000,000 people) reaching &lt;strong&gt;6.3%&lt;/strong&gt; of the population&lt;/p&gt;
-&lt;p&gt;During the first 25 years of its existence the telephone was physically accessible to less than 1% of the population, but that number nearly tripled between 1900 and 1905, then doubled again, between 1905 and 1910.   This exponential growth, and the exposure of greater and greater numbers of people to this technology &amp;#8212; &lt;em&gt;which could project their voice instantly to almost anywhere&lt;/em&gt; &amp;#8212; must indeed have seemed like magic, like something from mythology come to life!&lt;/p&gt;
-&lt;p&gt;So it was not surprising to find an advertisement in the 1914 &lt;em&gt;Farm Journal&lt;/em&gt; in which the American Telephone and Telegraph Company actually portrayed their service in mythological terms.  AT&amp;amp;T was established only nine years earlier, in 1885, and by 1914 they had been riding a totally unparalleled explosion of telephony…and yet, from their point of view, they had more than 90% of the population left to capture as customers!   How to capture their imagination and then their money?   That must have been the operating question for the AT&amp;amp;T publicity machine of the time.    And here is what they came up with:&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="IDEAS" scheme="https//yunchtime.github.io/categories/IDEAS/"/>
-    
-    
-      <category term="memes" scheme="https//yunchtime.github.io/tags/memes/"/>
-    
-      <category term="gadgets" scheme="https//yunchtime.github.io/tags/gadgets/"/>
-    
-      <category term="telecoms" scheme="https//yunchtime.github.io/tags/telecoms/"/>
+      <category term="horror" scheme="https://yunchtime.github.io/tags/horror/"/>
     
   </entry>
   
