@@ -274,14 +274,14 @@ code {
 .logo {
   display: block;
   padding: 10px 0;
-  width: 110px;
-  height: 90px;
-  background-image: url("images/scarab_tiara_hexo_110.png");
+  width: 240px;
+  height: 148px;
+  background-image: url("images/scarab_tiara_slab.jpg");
   background-position: 0px 10px;
   background-repeat: no-repeat;
-  -webkit-background-size: 110px 90px;
-  -moz-background-size: 110px 90px;
-  background-size: 110px 90px;
+  -webkit-background-size: 240px 148px;
+  -moz-background-size: 240px 148px;
+  background-size: 240px 148px;
 }
 .main-body {
   margin-top: -60px;
@@ -357,7 +357,7 @@ code {
 }
 #header-title {
   text-align: center;
-  padding: 30px 30px;
+  padding: 5px 5px;
 }
 #header-title:before,
 #header-title:after {
@@ -372,14 +372,21 @@ code {
   float: left;
 }
 #header-title .subtitle-wrap {
-  padding: 10px 0px 0px;
+  padding: 6px;
   margin-left: 20px;
 }
 #header-title .subtitle {
-  font-size: 16px;
+  font-size: 22px;
   font-style: italic;
-  line-height: 100px;
+  line-height: 28px;
   color: rgba(255,255,255,0.7);
+  text-shadow: 0 1px rgba(0,0,0,0.2);
+}
+#header-title .maintitle {
+  font-size: 48px;
+  font-style: bold;
+  line-height: 52px;
+  color: #ff0;
   text-shadow: 0 1px rgba(0,0,0,0.2);
 }
 .nav-container .nav-icon,
@@ -1644,11 +1651,11 @@ a.article-title:hover {
   line-height: 22px;
 }
 #footer .logo {
-  width: 88px;
-  height: 72px;
-  -webkit-background-size: 88px 72px;
-  -moz-background-size: 88px 72px;
-  background-size: 88px 72px;
+  width: 192px;
+  height: 118.4px;
+  -webkit-background-size: 192px 118.4px;
+  -moz-background-size: 192px 118.4px;
+  background-size: 192px 118.4px;
 }
 i.icon {
   display: inline-block;
