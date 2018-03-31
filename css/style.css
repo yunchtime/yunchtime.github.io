@@ -223,6 +223,7 @@ html,
 body,
 #container {
   height: 100%;
+  overflow-wrap: normal;
 }
 ::selection {
   color: #fff;
@@ -241,6 +242,12 @@ code {
   border-radius: 2px;
   font-family: "Source Code Pro", Consolas, Monaco, Menlo, Consolas, monospace;
   background-color: #f8f8f8;
+}
+code,
+pre {
+  word-wrap: normal;
+  overflow-wrap: break-word;
+  height: auto;
 }
 .container {
   position: relative;
@@ -1106,7 +1113,7 @@ a.article-title:hover {
   content: "#";
 }
 .article-entry {
-  color: #555;
+  color: #000;
   font-size: 18px;
   font-weight: 300;
   line-height: 1.6em;
