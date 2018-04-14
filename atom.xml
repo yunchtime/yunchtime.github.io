@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.yunchtime.net/"/>
-  <updated>2018-04-01T18:46:28.000Z</updated>
+  <updated>2018-04-14T23:28:08.000Z</updated>
   <id>http://www.yunchtime.net/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hong Kong Science Fiction Scene - Allen Steele on the Melon Conference 2018</title>
-    <link href="http://www.yunchtime.net/ARTS/Hong-Kong-Allen-Steele-at-Melon-2/"/>
-    <id>http://www.yunchtime.net/ARTS/Hong-Kong-Allen-Steele-at-Melon-2/</id>
-    <published>2018-03-31T14:15:32.000Z</published>
-    <updated>2018-04-01T18:46:28.000Z</updated>
+    <title>Tribute to Ahmed Khaled Towfik, Egyptian SF Author</title>
+    <link href="http://www.yunchtime.net/ARTS/Tribute-to-Ahmed-Khaled-Towfik-Egyptian-SF-Author/"/>
+    <id>http://www.yunchtime.net/ARTS/Tribute-to-Ahmed-Khaled-Towfik-Egyptian-SF-Author/</id>
+    <published>2018-04-14T20:15:32.000Z</published>
+    <updated>2018-04-14T23:28:08.000Z</updated>
     
     <summary type="html">
     
@@ -38,13 +38,41 @@
       <category term="ARTS" scheme="http://www.yunchtime.net/categories/ARTS/"/>
     
     
-      <category term="con report" scheme="http://www.yunchtime.net/tags/con-report/"/>
+      <category term="science fiction" scheme="http://www.yunchtime.net/tags/science-fiction/"/>
     
-      <category term="fandom" scheme="http://www.yunchtime.net/tags/fandom/"/>
+      <category term="memorials" scheme="http://www.yunchtime.net/tags/memorials/"/>
     
-      <category term="Hong Kong" scheme="http://www.yunchtime.net/tags/Hong-Kong/"/>
+      <category term="Egypt" scheme="http://www.yunchtime.net/tags/Egypt/"/>
     
-      <category term="authors" scheme="http://www.yunchtime.net/tags/authors/"/>
+  </entry>
+  
+  <entry>
+    <title>Infra Draconis and Tempograd, the science fiction of Georgiĭ Gurevich</title>
+    <link href="http://www.yunchtime.net/ARTS/Infra-Draconis-and-Tempograd/"/>
+    <id>http://www.yunchtime.net/ARTS/Infra-Draconis-and-Tempograd/</id>
+    <published>2018-04-04T20:15:32.000Z</published>
+    <updated>2018-04-05T03:07:39.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+      <category term="ARTS" scheme="http://www.yunchtime.net/categories/ARTS/"/>
+    
+    
+      <category term="science fiction" scheme="http://www.yunchtime.net/tags/science-fiction/"/>
+    
+      <category term="review" scheme="http://www.yunchtime.net/tags/review/"/>
+    
+      <category term="Russia" scheme="http://www.yunchtime.net/tags/Russia/"/>
     
   </entry>
   
@@ -75,6 +103,38 @@
       <category term="gender" scheme="http://www.yunchtime.net/tags/gender/"/>
     
       <category term="Hong Kong" scheme="http://www.yunchtime.net/tags/Hong-Kong/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hong Kong Science Fiction Scene - Allen Steele on the Melon Conference 2018</title>
+    <link href="http://www.yunchtime.net/ARTS/Hong-Kong-Allen-Steele-at-Melon-2/"/>
+    <id>http://www.yunchtime.net/ARTS/Hong-Kong-Allen-Steele-at-Melon-2/</id>
+    <published>2018-03-31T14:15:32.000Z</published>
+    <updated>2018-04-01T18:46:28.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+      <category term="ARTS" scheme="http://www.yunchtime.net/categories/ARTS/"/>
+    
+    
+      <category term="con report" scheme="http://www.yunchtime.net/tags/con-report/"/>
+    
+      <category term="fandom" scheme="http://www.yunchtime.net/tags/fandom/"/>
+    
+      <category term="Hong Kong" scheme="http://www.yunchtime.net/tags/Hong-Kong/"/>
+    
+      <category term="authors" scheme="http://www.yunchtime.net/tags/authors/"/>
     
   </entry>
   
@@ -545,72 +605,6 @@
       <category term="mushrooms" scheme="http://www.yunchtime.net/tags/mushrooms/"/>
     
       <category term="New Year" scheme="http://www.yunchtime.net/tags/New-Year/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Another Blood Moon, Another Howling</title>
-    <link href="http://www.yunchtime.net/ARTS/another-blood-moon-another-howling/"/>
-    <id>http://www.yunchtime.net/ARTS/another-blood-moon-another-howling/</id>
-    <published>2015-10-24T20:50:57.000Z</published>
-    <updated>2017-10-19T00:15:02.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;img
-        
-      
-    
-    </summary>
-    
-      <category term="ARTS" scheme="http://www.yunchtime.net/categories/ARTS/"/>
-    
-    
-      <category term="criticism" scheme="http://www.yunchtime.net/tags/criticism/"/>
-    
-      <category term="psychology" scheme="http://www.yunchtime.net/tags/psychology/"/>
-    
-      <category term="moon" scheme="http://www.yunchtime.net/tags/moon/"/>
-    
-      <category term="occult" scheme="http://www.yunchtime.net/tags/occult/"/>
-    
-      <category term="werewolves" scheme="http://www.yunchtime.net/tags/werewolves/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MICE swarm in University Hall:  Mass Independent Comix Expo 2015</title>
-    <link href="http://www.yunchtime.net/ARTS/mice-swarm-in-university-hall/"/>
-    <id>http://www.yunchtime.net/ARTS/mice-swarm-in-university-hall/</id>
-    <published>2015-10-18T22:20:57.000Z</published>
-    <updated>2017-10-19T00:15:02.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;strong&gt;The &lt;a href=&quot;http://www.micexpo.org/&quot; target=&quot;_blank&quot;&gt;MICE&lt;/a&gt; invasion of Cambridge was a swarming crowd of anarchistic fun&lt;/strong&gt;.   Hundreds of &lt;a href=&quot;https://twitter.com/search?q=%23MICE2015&quot; target=&quot;_blank&quot;&gt;comix-crazed attendees&lt;/a&gt; jammed the halls of Leslie University, chatting with 200 comic artists and publishers.  Tables of eye candy stretched through the second floor of University Hall, connecting with additional jam-packed side rooms named after comix greats, such as the &lt;a href=&quot;https://en.wikipedia.org/wiki/Robert_Crumb&quot; target=&quot;_blank&quot;&gt;Crumb&lt;/a&gt; Room, &lt;a href=&quot;https://en.wikipedia.org/wiki/Julie_Doucet&quot; target=&quot;_blank&quot;&gt;Doucet&lt;/a&gt; Hall, and the &lt;a href=&quot;https://en.wikipedia.org/wiki/Alison_Bechdel&quot; target=&quot;_blank&quot;&gt;Bechdel&lt;/a&gt; Room.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://www.yunchtime.net/misc/mice_tables_sm.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;You gotta love the idea of independent comix artists actually being recognized in the mundane society for their pure “genius” &amp;#8212; proven by Alison Bechdel’s Westinghouse Genius Award in 2014!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Here is a gang of fervent, possibly feverish, and yes, well, let’s face it, mostly starving artists&lt;/strong&gt; who are so adamant, so tenacious, and so in-your-face diversified, that their official genius is the inventor of the gender-bias principle known as the &lt;a href=&quot;https://en.wikipedia.org/wiki/Bechdel_test&quot; target=&quot;_blank&quot;&gt;Bechdel Test&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Yo, MICE artists, kudos to the whole lot of you!   &lt;strong&gt;You are giant mice among scampering human conformists,&lt;/strong&gt; in my book.&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="ARTS" scheme="http://www.yunchtime.net/categories/ARTS/"/>
-    
-    
-      <category term="comics" scheme="http://www.yunchtime.net/tags/comics/"/>
-    
-      <category term="anarchism" scheme="http://www.yunchtime.net/tags/anarchism/"/>
-    
-      <category term="con report" scheme="http://www.yunchtime.net/tags/con-report/"/>
-    
-      <category term="androids" scheme="http://www.yunchtime.net/tags/androids/"/>
-    
-      <category term="equality" scheme="http://www.yunchtime.net/tags/equality/"/>
     
   </entry>
   
